@@ -2,7 +2,7 @@
 
 ### 生命周期的截图：
 
-![image](https://github.com/lxylearnmore/FirstApp/blob/master/app/src/main/res/mipmap/shortcut/1.png)
+![](https://i.loli.net/2019/03/19/5c905c5d08957.png)
 
 ### 相关代码：
 
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### 截图：
 
-![image](https://github.com/lxylearnmore/FirstApp/blob/master/app/src/main/res/mipmap/shortcut/2.png)
+![](https://i.loli.net/2019/03/19/5c905c87bb3e5.png)
 
 ### 相关代码：
 
@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### 截图：
 
-![image](https://github.com/lxylearnmore/FirstApp/blob/master/app/src/main/res/mipmap/shortcut/3.png)
+![](https://i.loli.net/2019/03/19/5c905c97bb8b3.png)
 
 ### 相关代码：
 
@@ -300,7 +300,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### 截图：
 
-![image](https://github.com/lxylearnmore/FirstApp/blob/master/app/src/main/res/mipmap/shortcut/4.png)
+![](https://i.loli.net/2019/03/19/5c905ca5ec60c.png)
 
 ### 相关代码：
 
